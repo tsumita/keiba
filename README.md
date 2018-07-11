@@ -37,7 +37,7 @@ prize          | FLOAT  | 200            |賞金[万円]
 ## racesテーブル情報
 column         | type   | example        | description
 :------------- | :----- | :------------- |:----------
-race_id        | INT    | 21201          |レースID（racesテーブルと紐づく）
+race_id        | INT    | 21201          |レースID（horse_info_per_raceテーブルと紐づく）
 race_name      | STRING | 2歳未勝利       |レース名
 race_page_num  | STRING | 201403030502   |スクレイピング用ページ番号
 place          | STRING | 福島            |競馬場の所在
