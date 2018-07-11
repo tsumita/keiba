@@ -33,7 +33,7 @@ trainer        | STRING | 久保田貴        |調教師
 owner          | STRING | シルクレーシング  |馬主
 prize          | FLOAT  | 200            |賞金[万円]
 
-<img alt="horse_infoTABLE" src="https://raw.github.com/wiki/tsumita/keiba/image/horse_info_per_race.png">
+![horse_infoTABLE](./image/horse_info_per_race.png)
 
 ## racesテーブル情報
 column         | type   | example        | description
@@ -55,5 +55,4 @@ the_start      | STGING | 10:20          |発走時間
 prize          | FLOAT  | 500            |このレースの最高賞金[万円]
 entry          | INT    | 16             |出走馬数
 
-<img alt="race_infoTABLE" src="https://raw.github.com/wiki/tsumita/keiba/image/race_info.png">
-
+![race_infoTABLE](./image/race_info.png)
