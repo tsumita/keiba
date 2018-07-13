@@ -44,7 +44,7 @@ race_page_num  | STRING | 201403030502   |スクレイピング用ページ番�
 place          | STRING | 福島            |競馬場の所在
 year           | INTEGER| 2014           |年
 month          | INTEGER| 11             |月
-day            | INTEGER| 1              |日にち
+day            | INTEGER| 1              |日
 date           | INTEGER| 20141101       |日付（年/月/日）
 direction      | STRING | 右             |周回方向（右・左）
 distance       | INTEGER| 1800           |競走距離[メートル]
