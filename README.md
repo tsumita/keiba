@@ -5,11 +5,11 @@
 ## DBテーブル情報
 table               | description
 :------------------ | :-------------
-horse_info_per_race | 各レースにおける各出走馬の情報、及び結果
+horse_info_in_race  | 各レースにおける各出走馬の情報、及び結果
 races               | 各レース情報
 
 
-## horse_info_per_raceテーブル情報
+## horse_info_in_raceテーブル情報
 column         | type   | example        | description
 :------------- | :----- | :------------- |:----------
 race_id        | INTEGER| 21201          |レースID（racesテーブルと紐づく）
@@ -33,7 +33,7 @@ trainer        | STRING | 久保田貴        |調教師
 owner          | STRING | シルクレーシング  |馬主
 prize          | FLOAT  | 200            |賞金[万円]
 
-### horse_info_per_raceテーブル
+### horse_info_in_raceテーブル
 ![horse_infoTABLE](./image/horse_info_per_race.png)
 
 ## racesテーブル情報
