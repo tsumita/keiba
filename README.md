@@ -78,7 +78,6 @@ birthday         | STRING | 2012/2/13      |生年月日
 trainer          | STRING | 須貝尚介         |調教師
 owner            | STRING | 国本哲秀         |馬主
 breeder          | STRING | 中原牧場         |生産者
-breed_center     | STRING | NULL            |
 producefrom      | STRING | 日高町           |産地
 seri             | STRING | NULL            |セリ取引価格
 total_prize_chuo | FLOAT  | 235             |獲得賞金（中央競馬）
