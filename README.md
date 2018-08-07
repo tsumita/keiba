@@ -57,6 +57,10 @@ the_start      | STGING | 10:20          |発走時間
 prize          | FLOAT  | 500            |このレースの最高賞金[万円]
 entry          | INTEGER| 16             |出走馬数
 
+### racesテーブル
+![race_infoTABLE](./image/race_info.png)
+
+
 ## horse_infoテーブル情報  
 column           | type   | example        | description
 :----------------| :----- | :------------- |:----------
@@ -89,7 +93,3 @@ mother           | STRING | ショウナンラノビア  |母親
 mat_grandfa      | STRING | フレンチデピュティ  |祖父（母方）
 mat_grandmo      | STRING | ショウナンアクシア  |祖母（母方）  
 
-
-
-### racesテーブル
-![race_infoTABLE](./image/race_info.png)
