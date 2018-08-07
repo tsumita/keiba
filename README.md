@@ -57,7 +57,7 @@ the_start      | STGING | 10:20          |発走時間
 prize          | FLOAT  | 500            |このレースの最高賞金[万円]
 entry          | INTEGER| 16             |出走馬数
 
-## horse_infoテーブル情報
+## horse_infoテーブル情報  
 column           | type   | example        | description
 :-------------- -| :----- | :------------- |:----------
 id               | INTEGER| 20005          |馬ID
@@ -87,7 +87,7 @@ pat_grandfa      | STRING | サンデーサイレンス  |祖父（父方）
 pat_grandmo      | STRING | ウインドインハーヘア|祖母（父方）
 mother           | STRING | ショウナンラノビア  |母親
 mat_grandfa      | STRING | フレンチデピュティ  |祖父（母方）
-mat_grandmo      | STRING | ショウナンアクシア  |祖母（母方）
+mat_grandmo      | STRING | ショウナンアクシア  |祖母（母方）  
 
 
 
