@@ -59,7 +59,7 @@ entry          | INTEGER| 16             |出走馬数
 
 ## horse_infoテーブル情報  
 column           | type   | example        | description
-:-------------- -| :----- | :------------- |:----------
+:----------------| :----- | :------------- |:----------
 id               | INTEGER| 20005          |馬ID
 h_name           | STRING | ショウナンラージャ|馬名
 status           | STRING | 抹消            |登録情報（現役/抹消）
