@@ -80,8 +80,8 @@ owner            | STRING | 国本哲秀         |馬主
 breeder          | STRING | 中原牧場         |生産者
 producefrom      | STRING | 日高町           |産地
 seri             | STRING | NULL            |セリ取引価格
-total_prize_chuo | FLOAT  | 235             |獲得賞金（中央競馬）
-total_prize_chiho| FLOAT  | 37              |獲得賞金（地方競馬）
+total_prize_chuo | FLOAT  | 235             |獲得賞金[万円]（中央競馬）
+total_prize_chiho| FLOAT  | 37              |獲得賞金[万円]（地方競馬）
 total_race       | INTEGER| 12              |レース出場回数
 total_win        | INTEGER| 1               |勝数
 total_result     | STRING | 1-3-2-6         |[1着-2着-3着-それ以外]の回数
